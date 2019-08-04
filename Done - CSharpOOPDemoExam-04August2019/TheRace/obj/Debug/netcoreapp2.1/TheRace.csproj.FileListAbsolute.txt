@@ -1,0 +1,9 @@
+C:\Users\vasko\Desktop\hbjn\TheRace\bin\Debug\netcoreapp2.1\TheRace.deps.json
+C:\Users\vasko\Desktop\hbjn\TheRace\bin\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\vasko\Desktop\hbjn\TheRace\bin\Debug\netcoreapp2.1\TheRace.pdb
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.csprojAssemblyReference.cache
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.csproj.CoreCompileInputs.cache
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfoInputs.cache
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.AssemblyInfo.cs
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.dll
+C:\Users\vasko\Desktop\hbjn\TheRace\obj\Debug\netcoreapp2.1\TheRace.pdb

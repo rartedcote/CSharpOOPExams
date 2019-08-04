@@ -1,0 +1,11 @@
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam - 18 November 2018\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb

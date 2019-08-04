@@ -1,0 +1,11 @@
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\bin\Debug\netcoreapp2.0\SoftUniRestaurant.deps.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\bin\Debug\netcoreapp2.0\SoftUniRestaurant.runtimeconfig.dev.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\bin\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\bin\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csprojAssemblyReference.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfoInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.AssemblyInfo.cs
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Basics Exam Retake - 19 December 2018\obj\Debug\netcoreapp2.0\SoftUniRestaurant.pdb
