@@ -1,0 +1,17 @@
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.deps.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.runtimeconfig.dev.json
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.Tests.pdb
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\bin\Debug\netcoreapp2.1\Telecom.pdb
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csprojAssemblyReference.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CoreCompileInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfoInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.AssemblyInfo.cs
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.csproj.CopyComplete
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.dll
+C:\Users\vasko\Desktop\Exams OOP\C# OOP Exam - 14 April 2019\Unit Test\Telecom.Tests\obj\Debug\netcoreapp2.1\Telecom.Tests.pdb
