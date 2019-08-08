@@ -1,0 +1,11 @@
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.deps.json
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.runtimeconfig.json
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.runtimeconfig.dev.json
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.dll
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\bin\Debug\netcoreapp2.1\HAD.pdb
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.csprojAssemblyReference.cache
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.csproj.CoreCompileInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.AssemblyInfoInputs.cache
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.AssemblyInfo.cs
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.dll
+C:\Users\vasko\Desktop\Exams OOP\CSharpOOPExams\C# OOP Advanced Exam Retake - 21 April 2019\HAD\obj\Debug\netcoreapp2.1\HAD.pdb
