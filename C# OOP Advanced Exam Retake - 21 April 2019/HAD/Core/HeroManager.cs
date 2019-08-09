@@ -100,7 +100,6 @@ namespace HAD.Core
             foreach (var hero in sortedHeroes)
             {
                 var asd = hero.Items.Select(i => i.Name);
-                asd = asd.Reverse();
                 string itemLine = hero.Items.Count != 0
                     ? string.Join(", ", asd)
                     : "None";
